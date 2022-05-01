@@ -1,0 +1,634 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"ser",
+				"services"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"min-",
+				"min-height\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"mt",
+				"mt-3"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"j",
+				"jpg"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"mari",
+				"margin-top\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"par",
+				"params_array"
+			],
+			[
+				"ro",
+				"_router\tproperty"
+			],
+			[
+				"po",
+				"post\tproperty"
+			],
+			[
+				"i",
+				"is_edit\tproperty"
+			],
+			[
+				"get",
+				"getPost\tmethod"
+			],
+			[
+				"post",
+				"post-edit\tdirectory"
+			],
+			[
+				"_",
+				"_postService\tproperty"
+			],
+			[
+				"Pot",
+				"PostService\talias"
+			],
+			[
+				"ob",
+				"Observable\talias"
+			],
+			[
+				"ge",
+				"getToken\tmethod"
+			],
+			[
+				"Post",
+				"PostService\talias"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"form-",
+				"form-control"
+			],
+			[
+				"_ro",
+				"_router\tproperty"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"imo",
+				"import\tkeyword"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"import",
+				"import\tkeyword"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"marin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"avatar",
+				"Avatar"
+			],
+			[
+				"image",
+				"image"
+			],
+			[
+				"set",
+				"setItem\tmethod"
+			],
+			[
+				"user",
+				"UserService\talias"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"impo",
+				"import\tkeyword"
+			],
+			[
+				"Do",
+				"DoCheck\talias"
+			],
+			[
+				"_r",
+				"_router\tproperty"
+			],
+			[
+				"pro",
+				"providers\tproperty"
+			],
+			[
+				"con",
+				"console\tvar"
+			],
+			[
+				"Ob",
+				"Observable\talias"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"USER",
+				"UserService\talias"
+			],
+			[
+				"col-md",
+				"col-md-5"
+			],
+			[
+				"Http",
+				"HttpHeaders\talias"
+			],
+			[
+				"JSON",
+				"JSON\tvar"
+			],
+			[
+				"User",
+				"UserService\talias"
+			],
+			[
+				"Use",
+				"UserService\talias"
+			],
+			[
+				"Form",
+				"FormsModule\talias"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"app",
+				"appRoutingProviders\talias"
+			],
+			[
+				"for",
+				"forRoot\tmethod"
+			],
+			[
+				"mo",
+				"ModuleWithProviders\talias"
+			],
+			[
+				"r",
+				"register.component\tscript"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/wamp64/www/Abogada/index.html",
+			"settings":
+			{
+				"buffer_size": 7625,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp64/www/prueba-php/index.php",
+			"settings":
+			{
+				"buffer_size": 8065,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package resour",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"Package Control: ch",
+				"Package Control: Remove Channel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pci",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/master-fullstack"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/Abogada/styles.css",
+		"/C/wamp64/www/master-php/proyecto-php-poo/views/usuario/registro.php",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/category-new/category-new.component.html",
+		"/C/wamp64/www/master-php/proyecto-php-poo/views/layout/header.php",
+		"/C/wamp64/www/Abogada/angular.json",
+		"/C/wamp64/www/Abogada/package.json",
+		"/C/wamp64/www/Abogada/src/styles.css",
+		"/C/wamp64/www/Abogada/src/app/app.component.html",
+		"/C/wamp64/www/Abogada/src/index.html",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/styles.css",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/app.component.html",
+		"/C/wamp64/www/master-fullstack/api-rest-laravel/app/Http/Controllers/PostController.php",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/post-edit/post-edit.component.ts",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/services/post.service.ts",
+		"/C/wamp64/www/master-fullstack/blog-angular/package.json",
+		"/C/wamp64/www/Abogada/.gitignore",
+		"/C/wamp64/www/master-fullstack/blog-angular/angular.json",
+		"/C/wamp64/www/master-fullstack/blog-angular/browserslist",
+		"/C/wamp64/www/master-fullstack/api-rest-laravel/app/Http/Controllers/UserController.php",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/post-new/post-new.component.html",
+		"/C/wamp64/www/master-fullstack/api-rest-laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php",
+		"/C/wamp64/www/master-fullstack/api-rest-laravel/app/Helpers/JwtAuth.php",
+		"/C/wamp64/www/master-fullstack/api-rest-laravel/app/User.php",
+		"/C/wamp64/www/master-fullstack/api-rest-laravel/app/Post.php",
+		"/C/wamp64/www/master-fullstack/api-rest-laravel/app/Providers/JwtAuthServiceProvider.php",
+		"/C/wamp64/www/master-fullstack/api-rest-laravel/app/Http/Middleware/ApiAuthMiddleware.php",
+		"/C/wamp64/www/master-fullstack/api-rest-laravel/config/database.php",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/post-new/post-new.component.spec.ts",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/models/post.ts",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/post-detail/post-detail.component.ts",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/post-new/post-new.component.ts",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/app.routing.ts",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/post-detail/post-detail.component.html",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/home/home.component.html",
+		"/C/Users/ayrto/AppData/Roaming/Sublime Text 3/Packages/PHPGrammar/README.md",
+		"/C/Users/ayrto/AppData/Roaming/Sublime Text 3/Packages/Phpcs/phpcs.sublime-settings",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/app.component.ts",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/home/home.component.ts",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/user-edit/user-edit.component.html",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/home/home.component.spec.ts",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/login/login.component.ts",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/user-edit/user-edit.component.ts",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/services/category.service.ts",
+		"/C/wamp64/www/master-fullstack/api-rest-laravel/app/Providers/AuthServiceProvider.php",
+		"/C/wamp64/www/master-fullstack/api-rest-laravel/app/Category.php",
+		"/C/wamp64/www/master-fullstack/api-rest-laravel/storage/app/images/1579294575fyyun8osuhw31.jpg",
+		"/C/wamp64/www/master-fullstack/api-rest-laravel/routes/web.php",
+		"/C/wamp64/www/master-fullstack/api-rest-laravel/app/Http/Controllers/Controller.php",
+		"/C/wamp64/www/master-fullstack/api-rest-laravel/app/Http/Controllers/CategoryController.php",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/services/user.service.ts",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/models/category.ts",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/register/register.component.html",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/models/user.ts",
+		"/C/Users/ayrto/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/category-new/category-new.component.ts",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/post-new/post-new.component.css",
+		"/C/Users/ayrto/AppData/Roaming/Sublime Text 3/Packages/TypeScript/TypeScript.sublime-settings",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/app.module.ts",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/login/login.component.html",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/register/register.component.ts",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/services/global.ts",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/error/error.component.html",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/error/error.component.ts",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/components/home/home.component.css",
+		"/C/wamp64/www/master-fullstack/blog-angular/src/app/models/acaca.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"error",
+			"mask"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/wamp64/www/Abogada/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								940,
+								940
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/wamp64/www/prueba-php/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8065,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6166,
+								6166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2174.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "master-fullstack.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 337.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
